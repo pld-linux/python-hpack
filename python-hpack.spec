@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Kodowanie nagłówków HTTP/2 dla Pythona 2
 Name:		python-hpack
 # keep 3.x here for python2 support
 Version:	3.0.0
-Release:	5
+Release:	6
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/hpack/
